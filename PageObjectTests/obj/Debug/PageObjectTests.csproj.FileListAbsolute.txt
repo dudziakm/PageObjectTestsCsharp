@@ -1,0 +1,13 @@
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\bin\Debug\PageObjectTests.dll
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\bin\Debug\PageObjectTests.pdb
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\bin\Debug\nunit.framework.dll
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\bin\Debug\WebDriver.dll
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\bin\Debug\WebDriver.Support.dll
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\bin\Debug\nunit.framework.xml
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\bin\Debug\WebDriver.xml
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\bin\Debug\WebDriver.Support.xml
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\obj\Debug\PageObjectTests.csprojResolveAssemblyReference.cache
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\obj\Debug\PageObjectTests.dll
+\\plwaw2bfp001\home$\michaldudziak\documents\visual studio 2015\Projects\PageObjectTests\PageObjectTests\obj\Debug\PageObjectTests.pdb
